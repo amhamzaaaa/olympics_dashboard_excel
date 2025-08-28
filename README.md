@@ -1,7 +1,7 @@
 # 🏅 Olympic Games Dashboard  
 
 This project presents an **interactive Olympic Dashboard** built to analyze participation, gender trends, and medal distributions across Olympic history.  
-The dashboard is available in both **Excel** and **Power BI** versions.  
+The dashboard is available in **Excel**.  
 
 ---
 
@@ -30,11 +30,8 @@ The dashboard is available in both **Excel** and **Power BI** versions.
 ---
 
 ## 🚀 Features
-- Interactive slicers/filters for **country, year, and sports** (in Power BI).  
+- Interactive slicers/filters for **year**.  
 - Clean and professional dashboard layout.  
 - Comparative analysis of **gender, medals, and sports popularity**.  
-- Available in **Excel (PivotTables/Charts)** and **Power BI (dynamic visuals with drill-downs)**.  
+- Available in **Excel (PivotTables/Charts)**.  
 
----
-
-## 📂 Repository Structure
