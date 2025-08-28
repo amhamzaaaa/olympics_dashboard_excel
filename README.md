@@ -35,3 +35,7 @@ The dashboard is available in **Excel**.
 - Comparative analysis of **gender, medals, and sports popularity**.  
 - Available in **Excel (PivotTables/Charts)**.  
 
+## Screenshots
+
+![screenshot](https://github.com/amhamzaaaa/olympics_dashboard_excel/blob/main/Screenshot%202025-08-28%20200141.png)
+
